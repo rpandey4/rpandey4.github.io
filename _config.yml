@@ -1,0 +1,17 @@
+front_image: ../mypic.jpeg
+resume: ../Rahul_Pandey_Resume.pdf
+title: Rahul Pandey
+title_temp: Rahul Pandey
+description: PhD IT (2018-Present)
+university: George Mason University
+gitlab: https://git.gmu.edu/rpandey4
+resume: http://mason.gmu.edu/~rpandey4/resume_rahul.pdf
+tw: https://twitter.com/gizmowiki
+in: https://www.linkedin.com/in/gizmowiki
+fb: https://www.facebook.com/gizmowikirp
+scholar: https://scholar.google.com/citations?user=fKMSzz0AAAAJ&hl=en
+area: Social Computing | Intent Mining | Web Mining | Behavior Modeling
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+scholar_url: publications.html
