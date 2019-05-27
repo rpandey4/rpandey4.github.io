@@ -9,6 +9,10 @@ Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Info
 
 ### [](#header-3) Recent News
 
+>**[May 2019]** I am spending my summers at [Philips Research North America](https://www.philips.com/a-w/research/locations/cambridge-north-america.html){:target="_blank"} [Acute Care Solutions team] working on applying AI in Healthtech domain.
+
+>**[April 2019]** One workshop paper got accepted at [SmartSys](http://mpsc.umbc.edu/smartsys/2019/){:target="_blank"} Workshop co-located with [SMARTCOMP 2019](http://www.smart-comp.org/){:target="_blank"} conference.
+
 >**[January 2019]** I am serving as a Workshop Co-Chair at [Web Intelligence 2019](http://webintelligence2019.com/organizing-committee-2/){:target="_blank"} conference.
 
 >**[January 2019]** One full paper got accepted under Tools track at [ISCRAM 2019](https://iscram2019.webs.upv.es){:target="_blank"} conference.

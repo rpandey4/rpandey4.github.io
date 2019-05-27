@@ -15,9 +15,11 @@ layout: default
 
 
 #### Conference Paper
-* [(To appear) EMAssistant: A Learning Analytics System for Social and Web Data Filtering to Assist Trainees and Volunteers of Emergency Services]()
+* [EMAssistant: A Learning Analytics System for Social and Web Data Filtering to Assist Trainees and Volunteers of Emergency Services](http://idl.iscram.org/files/rahulpandey/2019/1795_RahulPandey_etal2019.pdf)
 
 	**Rahul Pandey**, Gaurav Bahl, Hemant Purohit. 2019. In Proceedings of 17th International Conference on Information Systems for Crisis Response and Management (ISCRAM).
+
+	[\[ISCRAM Digital Library\]](http://idl.iscram.org/show.php?record=1795){:target="_blank"}
 
 * [Distributional Semantics Approach to Detect Intent in Twitter Conversations on Sexual Assaults](https://arxiv.org/pdf/1810.01012.pdf){:target="_blank"}
 
@@ -47,7 +49,12 @@ layout: default
 
 	[\[IEEE Xplore\]](https://doi.org/10.1109/ASONAM.2018.8508374){:target="_blank"}
 
+
 #### Workshop/Symposium Paper
+* [(To appear) Relevancy Classification of Multimodal Social Media Streams for Emergency Services]()
+
+	Ganesh Nalluru, **Rahul Pandey**, and Hemant Purohit. 2019. In Proceedings of the Fourth IEEE Workshop on Smart Service Systems co-located with SMARTCOMP 2019.
+
 * [AI for Trustworthiness! Credible User Identification on Social Web for Disaster Response Agencies](https://arxiv.org/pdf/1810.01013.pdf){:target="_blank"}
 
 	**Rahul Pandey**, Hemant Purohit, Jennifer Chan, Aditya Johri. 2018. In Proceedings of AAAI 2018 FALL SYMPOSIUM SERIES.
@@ -59,6 +66,7 @@ layout: default
 	**Rahul Pandey** and Hemant Purohit. 2018. In Proceedings of the Workshop Program of the 19th International Conference on Distributed Computing and Networking (Workshops ICDCN '18).
 
 	[\[ACM Digital Library\]](https://doi.org/10.1145/3170521.3170528){:target="_blank"}
+
 
 #### Extended Abstract
 * [Modeling Policy-relevant Intent related to Gender Violence Myths on Social Media using Social Construction Theory](http://mason.gmu.edu/~rpandey4/modeling-gbv-policy-intent-ic2s218.pdf){:target="_blank"}
