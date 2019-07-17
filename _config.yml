@@ -1,5 +1,7 @@
 front_image: ../mypic.jpeg
 resume: ../Rahul_Pandey_Resume.pdf
+plugins:
+  - jekyll-seo-tag
 title: Rahul Pandey
 title_temp: Rahul Pandey
 description: PhD IT (2018-Present)
@@ -9,6 +11,19 @@ resume: http://mason.gmu.edu/~rpandey4/resume_rahul.pdf
 tw: https://twitter.com/RahulPandeyGMU
 in: https://www.linkedin.com/in/RahulPandeyGMU
 fb: https://www.facebook.com/RahulPandeyGMU
+twitter:
+    username: RahulPandeyGMU
+    card: summary
+logo: ../mypic.jpeg
+social:
+  name: Rahul Pandey
+  links:
+    - https://twitter.com/RahulPandeyGMU
+    - https://www.linkedin.com/in/RahulPandeyGMU
+    - https://www.facebook.com/RahulPandeyGMU
+    - http://mason.gmu.edu/~rpandey4
+    - https://scholar.google.com/citations?user=fKMSzz0AAAAJ&hl=en
+google_site_verification: Vy61zPDaREy4eapdTF0qHq2lyeZ9ZKPR662tSXBOMmE
 scholar: https://scholar.google.com/citations?user=fKMSzz0AAAAJ&hl=en
 area: Social Computing | Intent Mining | Web Mining | Behavior Modeling
 themer: jekyll-theme-minimal

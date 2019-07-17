@@ -66,6 +66,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll-seo-tag
   jekyll-theme-minimal!
 
 BUNDLED WITH
