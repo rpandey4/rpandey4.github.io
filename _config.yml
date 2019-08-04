@@ -27,10 +27,10 @@ google_site_verification: d0AOzN9ePf5b0OqnHSdrshkX8h-g2pG2MZDhD83tSNk
 scholar: https://scholar.google.com/citations?user=fKMSzz0AAAAJ&hl=en
 area: Social Computing | Intent Mining | Web Mining | Behavior Modeling
 themer: jekyll-theme-minimal
-o_comm: IEEE/WIC/ACM WI '19 (Workshop Co-Chair)
-p_comm: IEEE/WIC/ACM WI '19
-j_rev: Elsevier FGCS (Impact Factor 4.639), InderScience IJMSO
-s_rev: NeurIPS 2019, EMNLP 2019, CODS-COMAD 2018
+o_comm: WI '19 (Workshop Co-Chair)
+p_comm: WI '19
+j_rev: Elsevier FGCS (I.F. 4.639), InderScience IJMSO
+s_rev: NeurIPS 2019, EMNLP 2019, CoNLL 2019, CODS-COMAD 2018
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
