@@ -4,7 +4,7 @@ layout: default
 **[Home\>\>](./)[Publications](./publications.html)**
 ## Publications :
 
-#### [View Google Scholar](https://scholar.google.com/citations?user=fKMSzz0AAAAJ&hl=en){:target="_blank"}
+#### [View Google Scholar](https://scholar.google.com/citations?user=fKMSzz0AAAAJ){:target="_blank"}
 
 #### Book Chapter
 * [Intent Mining for the Good, Bad & Ugly Use of Social Web: Concepts, Methods, and Challenges](http://ist.gmu.edu/~hpurohit/informatics-lab/papers/snam-chapter-intent-FINAL.pdf)
@@ -15,6 +15,12 @@ layout: default
 
 
 #### Conference Paper
+* [Modeling Human Annotation Errors to Design Bias-Aware Systems for Social Stream Processing](https://arxiv.org/pdf/1907.07228.pdf){:target="_blank"}
+
+	**Rahul Pandey**, Carlos Castillo, Hemant Purohit. 2019. In Proceedings of 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM).  
+
+	[\[arXiv\]](https://arxiv.org/abs/1907.07228){:target="_blank"}
+
 * [EMAssistant: A Learning Analytics System for Social and Web Data Filtering to Assist Trainees and Volunteers of Emergency Services](http://idl.iscram.org/files/rahulpandey/2019/1795_RahulPandey_etal2019.pdf)
 
 	**Rahul Pandey**, Gaurav Bahl, Hemant Purohit. 2019. In Proceedings of 17th International Conference on Information Systems for Crisis Response and Management (ISCRAM).
@@ -51,9 +57,21 @@ layout: default
 
 
 #### Workshop/Symposium Paper
-* [(To appear) Relevancy Classification of Multimodal Social Media Streams for Emergency Services]()
+* [(To appear) BoostER: A Performance Boosting Module for Biomedical Entity Recognition](./publications.html)
+
+	**Rahul Pandey** et al. 2019. In Proceedings of Second Workshop in Artificial Intelligence Techniques for BioMedicine and HealthCare (AIBH) co-located with IEEE BIBM 2019.
+
+* [Classifying Relevant Social Media Posts During Disasters Using Ensemble of Domain-agnostic and Domain-specific Word Embeddings](https://arxiv.org/pdf/1911.05165.pdf)
+
+	Ganesh Nalluru, **Rahul Pandey**, and Hemant Purohit. 2019. In Proceedings of AAAI 2019 FALL SYMPOSIUM SERIES.
+
+	[\[arxiv\]](https://arxiv.org/abs/1911.05165){:target="_blank"}
+
+* [Relevancy Classification of Multimodal Social Media Streams for Emergency Services](https://arxiv.org/pdf/1907.07240.pdf)
 
 	Ganesh Nalluru, **Rahul Pandey**, and Hemant Purohit. 2019. In Proceedings of the Fourth IEEE Workshop on Smart Service Systems co-located with SMARTCOMP 2019.
+
+	[\[IEEE Xplore\]](https://doi.org/10.1109/SMARTCOMP.2019.00040){:target="_blank"}
 
 * [AI for Trustworthiness! Credible User Identification on Social Web for Disaster Response Agencies](https://arxiv.org/pdf/1810.01013.pdf){:target="_blank"}
 

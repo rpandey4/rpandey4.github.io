@@ -8,6 +8,17 @@ I am **Rahul Pandey**, second year PhD student in Information Technology with th
 Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Informatics Lab](http://ist.gmu.edu/~hpurohit/informatics-lab.html){:target="_blank"}, [Volgenau School of Engineering](https://volgenau.gmu.edu/){:target="_blank"} in [George Mason University](https://www2.gmu.edu/){:target="_blank"}. My advisor is [Dr Hemant Purohit](http://ist.gmu.edu/~hpurohit/){:target="_blank"}.
 
 ### [](#header-3) Recent News
+>**[Nov 2019]** I have attended the [AAAI 2019 Fall Symposium ](https://aaai.org/Symposia/Fall/fss19.php){:target="_blank"} in [AI for Social Good](https://ai-for-socialgood.github.io/). Lots of discussion on Responsible AI and the need of interpretability in AI systems.
+
+>**[Oct 2019]** All the workshops and special session program of [IEEE/WIC/ACM Web Intelligence 2019](https://webintelligence2019.com/) concluded on October 14th, 2019. Unfortunately due to time constraint, I could not attend the conference but here is the [link](https://dl.acm.org/citation.cfm?id=3358695) for the proceedings of all the 12 workshops/special sessions. 
+
+>**[Oct 2019]** My internship work at [Philips Research North America](https://www.philips.com/a-w/research/locations/cambridge-north-america.html){:target="_blank"} [Acute Care Solutions team] got accepted in [2nd AIBH](https://sites.google.com/view/aibh2019/) at [2019 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2019)](http://ieeebibm.org/BIBM2019/index.html). We propose a novel performance boosting module for Biomedical Entity Recognition called **BoostER**. The pre-print will be available soon.
+
+>**[Oct 2019]** I have attended the [BDEM Annual Workshop 2019](https://www.bigdata.vestforsk.no/news-1/bdem-annual-workshop-to-be-held-in-october-2019){:target="_blank"} held in Sogndal, Norway. I had presented our ongoing research on analyzing Web Stream data with focus on ASONAM 2019 [modeling error](https://arxiv.org/pdf/1907.07228.pdf) paper and Web Intelligence 2018 [ranking](https://arxiv.org/pdf/1809.08489.pdf) paper.
+
+>**[Sep 2019]** Our paper got accepted in [AAAI 2019 Fall Symposium Series](https://aaai.org/Symposia/Fall/fss19.php){:target="_blank"} in [AI for Social Good](https://ai-for-socialgood.github.io/).
+
+>**[Aug 2019]** I have attended [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/){:target="_blank"} conference at Canada. This was my first time attending conference outside of USA. I had learnt very much and enjoyed the beautiful places of Vancouver, CA.
 
 >**[June 2019]** One short paper got accepted in [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/){:target="_blank"} conference (Acceptance Rate: 14% \<short-paper: 6%\>).
 
