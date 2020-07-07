@@ -8,6 +8,7 @@ description: PhD IT (2018-Present)
 university: George Mason University
 gitlab: https://git.gmu.edu/rpandey4
 resume: http://mason.gmu.edu/~rpandey4/resume_rahul.pdf
+cv: http://mason.gmu.edu/~rpandey4/cv_rahulpandey.pdf
 tw: https://twitter.com/RahulPandeyGMU
 in: https://www.linkedin.com/in/RahulPandeyGMU
 fb: https://www.facebook.com/RahulPandeyGMU
@@ -25,11 +26,11 @@ social:
     - https://scholar.google.com/citations?user=fKMSzz0AAAAJ&hl=en
 google_site_verification: d0AOzN9ePf5b0OqnHSdrshkX8h-g2pG2MZDhD83tSNk
 scholar: https://scholar.google.com/citations?user=fKMSzz0AAAAJ&hl=en
-area: Social Computing | Intent Mining | Web Mining | Behavior Modeling
+area:  Human-AI Collaboration | User Behavior Modeling | Human-Centered Computing | Natural Language Understanding | Applied Machine Learning
 themer: jekyll-theme-minimal
 o_comm: WI '19 (Workshop Co-Chair)
-p_comm: VLIoT '20, WI '19
-j_rev: Elsevier FGCS (I.F. 4.639), Springer SNAM
+p_comm: WI '20, SBP-BRiMS '20, VLIoT '20, WI '19
+j_rev: Elsevier FGCS (I.F. 4.639)
 s_rev: NeurIPS 2019, EMNLP 2019, CoNLL 2019, CODS-COMAD 2018
 show_downloads: true
 google_analytics:

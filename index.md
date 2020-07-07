@@ -2,15 +2,18 @@
 layout: default
 ---
 
-## [](#header-2)Hello!
-I am **Rahul Pandey**, second year PhD student in Information Technology with the concentration in Information Science and Technology. I have done my bachelors with _Computer Science_ major from **The LNMIIT**, Jaipur, IN from _2013-17_. My research interests lie in the _intersection_ of _Machine Learning_ and _Semantic understandings of intents and behaviors_ and apply that across domains to solve complex human-centered problems. It is an amalgam of _Social Computing, Intent Mining, Web Mining, and Behavior Modeling_ across different modalities including but not limited to _text, images, videos,_ etc.   
+### [](#header-2)Hello! I am Rahul Pandey, _[\[CV\]](http://mason.gmu.edu/~rpandey4/cv_rahulpandey.pdf){:target="_blank"}_.
+<!-- Hello, I am **Rahul Pandey**,  -->
+I am a third year PhD student in Information Technology with the concentration in Information Science and Technology. I have done my bachelors with _Computer Science_ major from **The LNMIIT**, Jaipur, IN from _2013-17_. My research interests lie in the _intersection_ of _Machine Learning_ and _Semantic understandings of intents and behaviors_ and apply that across domains to solve complex human-centered problems. It is an amalgam of _Human-AI Collaboration, User Behavior Modeling, Human-Centered Computing, Natural Language Understanding, Applied Machine Learning_ across different modalities including but not limited to _text, images, videos,_ etc.   
 
 Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Informatics Lab](http://ist.gmu.edu/~hpurohit/informatics-lab.html){:target="_blank"}, [Volgenau School of Engineering](https://volgenau.gmu.edu/){:target="_blank"} in [George Mason University](https://www2.gmu.edu/){:target="_blank"}. My advisor is [Dr Hemant Purohit](http://ist.gmu.edu/~hpurohit/){:target="_blank"}.
 
 ### [](#header-3) Recent News
+>**[Jun 2020]** After a lot of hurdles, I am spending my summers remotely at [Comcast Applied AI Lab](https://jobs.comcast.com/ml-ai-team-page){:target="_blank"} [Corti team] working on applying AI in media tech. The internship program got rescinded due to COVID '19; however, we were taken back as a research contractor.
+
 >**[Nov 2019]** I have attended the [AAAI 2019 Fall Symposium ](https://aaai.org/Symposia/Fall/fss19.php){:target="_blank"} in [AI for Social Good](https://ai-for-socialgood.github.io/). Lots of discussion on Responsible AI and the need of interpretability in AI systems.
 
->**[Oct 2019]** All the workshops and special session program of [IEEE/WIC/ACM Web Intelligence 2019](https://webintelligence2019.com/) concluded on October 14th, 2019. Unfortunately due to time constraint, I could not attend the conference but here is the [link](https://dl.acm.org/citation.cfm?id=3358695) for the proceedings of all the 12 workshops/special sessions. 
+>**[Oct 2019]** All the workshops and special session program of [IEEE/WIC/ACM Web Intelligence 2019](https://webintelligence2019.com/) concluded on October 14th, 2019. Unfortunately due to time constraint, I could not attend the conference but here is the [link](https://dl.acm.org/citation.cfm?id=3358695) for the proceedings of all the 12 workshops/special sessions.
 
 >**[Oct 2019]** My internship work at [Philips Research North America](https://www.philips.com/a-w/research/locations/cambridge-north-america.html){:target="_blank"} [Acute Care Solutions team] got accepted in [2nd AIBH](https://sites.google.com/view/aibh2019/) at [2019 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2019)](http://ieeebibm.org/BIBM2019/index.html). We propose a novel performance boosting module for Biomedical Entity Recognition called **BoostER**. The pre-print will be available soon.
 
