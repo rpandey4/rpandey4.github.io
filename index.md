@@ -9,7 +9,7 @@ I am a third year PhD student in Information Technology with the concentration i
 Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Informatics Lab](http://ist.gmu.edu/~hpurohit/informatics-lab.html){:target="_blank"}, [Volgenau School of Engineering](https://volgenau.gmu.edu/){:target="_blank"} in [George Mason University](https://www2.gmu.edu/){:target="_blank"}. My advisor is [Dr Hemant Purohit](http://ist.gmu.edu/~hpurohit/){:target="_blank"}.
 
 ### [](#header-3) Recent News
->**[Jun 2020]** After a lot of hurdles, I am spending my summers remotely at [Comcast Applied AI Lab](https://jobs.comcast.com/ml-ai-team-page){:target="_blank"} [Corti team] working on applying AI in media tech. The internship program got rescinded due to COVID '19; however, we were taken back as a research contractor.
+>**[Jun 2020]** I am spending my summers remotely at [Comcast Applied AI Lab](https://jobs.comcast.com/ml-ai-team-page){:target="_blank"} [Corti team] working on applying AI in media tech. 
 
 >**[Nov 2019]** I have attended the [AAAI 2019 Fall Symposium ](https://aaai.org/Symposia/Fall/fss19.php){:target="_blank"} in [AI for Social Good](https://ai-for-socialgood.github.io/). Lots of discussion on Responsible AI and the need of interpretability in AI systems.
 
