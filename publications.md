@@ -4,7 +4,7 @@ layout: default
 **[Home\>\>](./index.html)[Publications](./publications.html)**
 ## Publications :
 
-#### [View Google Scholar](https://scholar.google.com/citations?user=fKMSzz0AAAAJ){:target="_blank"}
+\[_For most up-to-date publication list, please visit_ [Google Scholar](https://scholar.google.com/citations?user=fKMSzz0AAAAJ){:target="_blank"}\]
 
 #### Book Chapter
 * [Intent Mining for the Good, Bad & Ugly Use of Social Web: Concepts, Methods, and Challenges](http://ist.gmu.edu/~hpurohit/informatics-lab/papers/snam-chapter-intent-FINAL.pdf)
@@ -94,4 +94,4 @@ layout: default
 [back](./index.html)
 * * *
 
-![](all_org.png)
+<!-- ![](all_org.png) -->

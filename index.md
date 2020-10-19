@@ -10,11 +10,11 @@ My research focuses on _human-centered computing_, therefore, particularly on st
 
 Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Informatics Lab](http://ist.gmu.edu/~hpurohit/informatics-lab.html){:target="_blank"}, [Volgenau School of Engineering](https://volgenau.gmu.edu/){:target="_blank"} at [George Mason University](https://www2.gmu.edu/){:target="_blank"}. My advisor is [Dr. Hemant Purohit](http://ist.gmu.edu/~hpurohit/){:target="_blank"}.
 
-<hr>
+* * *
 ![](all_org.png)
-<hr>
+* * *
 ### [](#header-3) Recent News
->**[Aug 2020]** Accepted the Graduate Teaching Assistantship for [AIT 664: Information: Representation, Processing and Visualization](https://ist.gmu.edu/wp-content/uploads/AIT664Fall2020Syllabus.pdf){:target="_blank"} course for the academic year 2020-21.
+>**[Aug 2020]** Will serve as a Graduate Teaching Assistant for [AIT 664: Information: Representation, Processing and Visualization](https://ist.gmu.edu/wp-content/uploads/AIT664Fall2020Syllabus.pdf){:target="_blank"} course for the academic year 2020-21.
 
 >**[Jun 2020]** Spending my summers remotely at [Comcast Applied AI Lab](https://jobs.comcast.com/ml-ai-team-page){:target="_blank"} [Corti team] working on applying AI in media tech.
 
@@ -71,7 +71,7 @@ Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Info
 
 >**[December 2015]** Started working remotely with INMAS Lab, D.R.D.O. (Delhi, India). I am exploring different data visualizations using d3.js.
 
->**[May 2015]** Started my internship at a computer-vision and robotics based startup [Kritikal Solutions](https://kritikalsolutions.com/){:target="_blank"} (Noida, India). I will be working on pedestrian detection for ADAS (Automated Driving Assistance Systems).
+>**[May 2015]** Started my internship at a computer-vision and robotics-based startup [Kritikal Solutions](https://kritikalsolutions.com/){:target="_blank"} (Noida, India). I will be working on pedestrian detection for ADAS (Automated Driving Assistance Systems).
 
 
 <!-- * * *
@@ -103,4 +103,4 @@ You can reach me at user_name@institute.edu
 user_name = "rpandey4"
 institute = "gmu"
 ``` -->
-<!-- * * * -->
+* * *
