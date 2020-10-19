@@ -1,10 +1,10 @@
-front_image: ../mypic.jpeg
+front_image: mypic.jpeg
 resume: ../Rahul_Pandey_Resume.pdf
 plugins:
   - jekyll-seo-tag
 title: Rahul Pandey
 title_temp: Rahul Pandey
-description: PhD IT (2018-Present)
+description: Ph.D. I.T. (2018-Present)
 university: George Mason University
 gitlab: https://git.gmu.edu/rpandey4
 resume: http://mason.gmu.edu/~rpandey4/resume_rahul.pdf

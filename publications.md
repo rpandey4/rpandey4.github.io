@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**[Home\>\>](./)[Publications](./publications.html)**
+**[Home\>\>](./index.html)[Publications](./publications.html)**
 ## Publications :
 
 #### [View Google Scholar](https://scholar.google.com/citations?user=fKMSzz0AAAAJ){:target="_blank"}
@@ -91,7 +91,7 @@ layout: default
 
 	Hemant Purohit, Bonnie Stabile, Aubrey Grant, **Rahul Pandey**. 2018. in 4th International Conference on Computational Social Science (IC<sup>2</sup>S<sup>2</sup>).
 
-[back](./)
+[back](./index.html)
 * * *
 
 ![](all_org.png)
