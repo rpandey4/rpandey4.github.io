@@ -20,7 +20,7 @@ Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Info
 
 >**[Nov 2019]** Attended the [AAAI 2019 Fall Symposium ](https://aaai.org/Symposia/Fall/fss19.php){:target="_blank"} in [AI for Social Good](https://ai-for-socialgood.github.io/). Lots of discussion on Responsible AI and the need of interpretability in AI systems.
 
->**[Oct 2019]** All the workshops and special session program of [IEEE/WIC/ACM Web Intelligence 2019](https://webintelligence2019.com/) concluded on October 14th, 2019. Unfortunately due to time constraint, I could not attend the conference but here is the [link](https://dl.acm.org/citation.cfm?id=3358695) for the proceedings of all the 12 workshops/special sessions.
+>**[Oct 2019]** All the workshops and special session program of [IEEE/WIC/ACM Web Intelligence 2019](https://webintelligence2019.com/) concluded on October 14th, 2019. Here is the [link](https://dl.acm.org/citation.cfm?id=3358695) for the proceedings of all the 12 workshops/special sessions.
 
 >**[Oct 2019]** My internship work at [Philips Research North America](https://www.philips.com/a-w/research/locations/cambridge-north-america.html){:target="_blank"} [Acute Care Solutions team] got accepted at [2019 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2019)](http://ieeebibm.org/BIBM2019/index.html) as a workshop paper. We propose a novel performance boosting module for Biomedical Entity Recognition called [BoostER](https://ieeexplore.ieee.org/abstract/document/8983367/){:target="_blank"}.
 
