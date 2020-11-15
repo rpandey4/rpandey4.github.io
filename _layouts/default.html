@@ -20,6 +20,7 @@
           networkType: 'dimension3',
        });
     </script>
+    <script src="https://kit.fontawesome.com/6bf560b279.js" crossorigin="anonymous"></script>
 
     <title>Rahul Pandey | PhD | Information Technology | George Mason University</title>
     <!--<meta http-equiv="refresh" content="2; url=https://rpandey4.github.io/">-->
@@ -92,7 +93,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <img src={{ site.front_image }} alt="" width="80%" /><br>
+        <img src={{ site.front_image }} alt="Rahul Pandey" width="80%" /><br>
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <!-- <a target="_blank" href="./index.html"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a> -->
         <p>{{ site.description | default: site.github.project_tagline }}<br>
@@ -110,17 +111,18 @@
 
         {% if site.show_downloads %}
           <ul>
-            <li><a target="_blank" href={{ site.cv }}>View <strong>C.V.</strong></a></li>
+            <li><a target="_blank" href={{ site.cv }}>View <strong>CV</strong></a></li>
             <li><a target="_blank" href={{ site.resume }}>View <strong>Resume</strong></a></li>
             <li><a href="{{ site.scholar_url }}">View <strong>Publications</strong></a></li>
             <!-- <li><a target="_blank" href="{{ site.github.owner_url }}">View <strong>GitLab</strong></a></li> -->
             <!-- <li><a target="_blank" href={{ site.gitlab }}>View <strong>GitLab</strong></a></li> -->
           </ul>
           <ul>
-            <li><a target="_blank" href={{ site.tw }}><img src=./tw.png alt="" width="13%" /><strong>Twitter</strong></a></li>
-            <li><a target="_blank" href={{ site.in }}><img src=./in.png alt="" width="13%" /><strong>LinkedIn</strong></a></li>
+            <li><a target="_blank" href={{ site.tw }}>View <strong><i class="fab fa-twitter-square"></i></strong></a></li>
+            <li><a target="_blank" href={{ site.in }}>View <strong><i class="fab fa-linkedin"></i></strong></a></li>
             <!-- <li><a target="_blank" href="">View <strong>GitLab</strong></a></li> -->
-            <li><a target="_blank" href={{ site.fb }}><img src=./fb.png alt="" width="12%" /><strong>Facebook</strong></a></li>
+            <li><a target="_blank" href={{ site.fb }}>View <strong><i class="fab fa-facebook-square"></i></strong></a></li>
+            <!-- <li><a href="{{ site.scholar_url }}">View <strong>Publications</strong></a></li> -->
           </ul>
         {% endif %}
         <hr>
