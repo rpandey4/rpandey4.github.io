@@ -4,7 +4,7 @@ layout: default
 
 ### [](#header-2)Hello! I am Rahul Pandey, _[\[CV\]](http://mason.gmu.edu/~rpandey4/cv_rahulpandey.pdf){:target="_blank"}_.
 <!-- Hello, I am **Rahul Pandey**,  -->
-I am a third-year Ph.D. student in Information Technology with a concentration in Information Sciences and Technology. I have completed my bachelor's in _Computer Science_ from _The LNMIIT_ (Jaipur, India) in _2017_. <!-- It is an amalgam of _Human-AI Collaboration, User Behavior Modeling, Human-Centered Computing, Natural Language Understanding, Applied Machine Learning_ across different modalities including but not limited to _text, images, videos,_ etc.    -->
+I am a fifth-year Ph.D. student in Information Technology with a concentration in Information Sciences and Technology. I have completed my bachelor's in _Computer Science_ from _The LNMIIT_ (Jaipur, India) in _2017_. <!-- It is an amalgam of _Human-AI Collaboration, User Behavior Modeling, Human-Centered Computing, Natural Language Understanding, Applied Machine Learning_ across different modalities including but not limited to _text, images, videos,_ etc.    -->
 
 My research focuses on _human-centered computing_, therefore, particularly on studying how and where to use human inputs in the various components of _AI system design_. It lies at the _intersection_ of _Applied Machine Learning_ and _Natural Language Understanding_ to solve human-centered computing problems across humanitarian and crisis informatics domains.
 
