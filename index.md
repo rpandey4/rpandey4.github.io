@@ -8,13 +8,34 @@ I am a fifth-year Ph.D. student in Information Technology with a concentration i
 
 My research focuses on _human-centered computing_, therefore, particularly on studying how and where to use human inputs in the various components of _AI system design_. It lies at the _intersection_ of _Applied Machine Learning_ and _Natural Language Understanding_ to solve human-centered computing problems across humanitarian and crisis informatics domains.
 
-Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Informatics Lab](http://ist.gmu.edu/~hpurohit/informatics-lab.html){:target="_blank"}, [Volgenau School of Engineering](https://volgenau.gmu.edu/){:target="_blank"} at [George Mason University](https://www2.gmu.edu/){:target="_blank"}. My advisor is [Dr. Hemant Purohit](http://ist.gmu.edu/~hpurohit/){:target="_blank"}.
+Currently, I am a Graduate Research Assistant at [Humanitarian Informatics Lab](https://mason.gmu.edu/~hpurohit/informatics-lab.html){:target="_blank"}, [Volgenau School of Engineering](https://volgenau.gmu.edu/){:target="_blank"} at [George Mason University](https://www2.gmu.edu/){:target="_blank"}. My advisor is [Dr. Hemant Purohit](http://mason.gmu.edu/~hpurohit/){:target="_blank"}.
 
 * * *
 ![](all_org.png)
 * * *
 ### [](#header-3) Recent News
+
+>**[Feb 2023]** Internship work [[link]](https://doi.org/10.1109/ICASSP49357.2023.10096062){:target="_blank"} at [Amazon Science](https://amazon.science){:target="_blank"} [Alexa Speech Team] got accepted in [IEEE ICASSP conference](https://2023.ieeeicassp.org/){:target="_blank"} (h-5 index: 110). Moreover, the patent of the work is submitted to United States Patent Office (USPTO)
+
+>**[Jan 2023]** Co-authored a book chapter [[link]](https://doi.org/10.1007/978-981-16-8800-3_34-1){:target="_blank"} on [CitizenHelper](https://citizenhelper.orc.gmu.edu/){:target="_blank"} in [Springer Nature International Handbook of Disaster Research](https://link.springer.com/referencework/10.1007/978-981-16-8800-3){:target="_blank"}
+
+>**[Aug 2022]** Passed my Ph.D. Proposal Exam, and advanced to Ph.D. candidacy. Presented the future direction of my dissertation research and discussed the proposed outcome of my Ph.D. dissertation
+
+>**[May 2022]** Spending my summers in Seattle at [Amazon Science](https://amazon.science){:target="_blank"} [Alexa Speech team] working on rare word recognition in ASR. 
+
+>**[Apr 2022]** Passed my Ph.D. Comprehensive Exam. Got good feedback for future direction of my dissertation research from the committee members.
+
+>**[Feb 2022]** Journal paper [[link]](https://doi.org/10.1007/s10639-022-10952-6){:target="_blank"} of my GRA work of 2020 in collaboration with [Dr. Aditya Johri](https://mason.gmu.edu/~johri/){:target="_blank"} published at [Springer Education and Information Technologies](https://www.springer.com/journal/10639){:target="_blank"} (Impact Factor: 3.666).
+
+>**[Jan 2022]** Journal paper [[link]](https://doi.org/10.1016/j.ijhcs.2022.102772){:target="_blank"} of my dissertation research published at [Elsevier International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies){:target="_blank"} (Impact Factor: 4.866, CiteScore 9.2).
+
+>**[Oct 2021]** Presented my proposed dissertation research [[link]](https://drive.google.com/file/d/1cco3PCO823BsaOl4U8xim0-KhBtphcuU/view?usp=sharing){:target="_blank"} at CSCW 2021 Workshop: [Investigating and Mitigating Biases in Crowdsourced Data](https://sites.google.com/view/biases-in-crowdsourced-data){:target="_blank"}.
+
+>**[May 2021]** Spending my summers remotely at [Amazon Science](https://amazon.science){:target="_blank"}  [Alexa Speech team] working on personalization in ASR.
+
 >**[Aug 2020]** Will serve as a Graduate Teaching Assistant for [AIT 664: Information: Representation, Processing and Visualization](https://ist.gmu.edu/wp-content/uploads/AIT664Fall2020Syllabus.pdf){:target="_blank"} course for the academic year 2020-21.
+
+>**[Aug 2020]** Passed my Ph.D. qualifying exams.
 
 >**[Jun 2020]** Spending my summers remotely at [Comcast Applied AI Lab](https://jobs.comcast.com/ml-ai-team-page){:target="_blank"} [Corti team] working on applying AI in media tech.
 
