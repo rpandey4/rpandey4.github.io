@@ -2,18 +2,23 @@
 layout: default
 ---
 
-### [](#header-2)Hello! I am Rahul Pandey, _[\[CV\]](http://mason.gmu.edu/~rpandey4/cv_rahulpandey.pdf){:target="_blank"}_.
+### [](#header-2)Hello! I am Rahul Pandey, Ph.D. _[\[CV\]](http://mason.gmu.edu/~rpandey4/cv_rahulpandey.pdf){:target="_blank"}_.
 <!-- Hello, I am **Rahul Pandey**,  -->
-I am a sixth-year Ph.D. candidate in Information Technology with a concentration in Information Sciences and Technology. I have completed my bachelor's in _Computer Science_ from _The LNMIIT_ (Jaipur, India) in _2017_. <!-- It is an amalgam of _Human-AI Collaboration, User Behavior Modeling, Human-Centered Computing, Natural Language Understanding, Applied Machine Learning_ across different modalities including but not limited to _text, images, videos,_ etc.    -->
+I finished my Ph.D. in Information Technology in _Summer 2023_ with a concentration in Information Sciences and Technology. Previously, I finished my undergrad studies in _Computer Science_ from _The LNMIIT_ (Jaipur, India) in _2017_. <!-- It is an amalgam of _Human-AI Collaboration, User Behavior Modeling, Human-Centered Computing, Natural Language Understanding, Applied Machine Learning_ across different modalities including but not limited to _text, images, videos,_ etc.    -->
 
 My research focuses on _human-centered computing_, therefore, particularly on studying how and where to use human inputs in the various components of _AI system design_. It lies at the _intersection_ of _Applied Machine Learning_ and _Natural Language Understanding_ to solve human-centered computing problems across humanitarian and crisis informatics domains.
 
-Currently, I am a Graduate Research Assistant at [Humanitarian Informatics Lab](https://mason.gmu.edu/~hpurohit/informatics-lab.html){:target="_blank"}, [Volgenau School of Engineering](https://volgenau.gmu.edu/){:target="_blank"} at [George Mason University](https://www2.gmu.edu/){:target="_blank"}. My advisor is [Dr. Hemant Purohit](http://mason.gmu.edu/~hpurohit/){:target="_blank"}.
+During my Ph.D., I worked as a Graduate Research Assistant at [Humanitarian Informatics Lab](https://mason.gmu.edu/~hpurohit/informatics-lab.html){:target="_blank"}, [School of Computing](https://computing.gmu.edu/){:target="_blank"} at [George Mason University](https://www2.gmu.edu/){:target="_blank"}. My Ph.D. advisor was [Dr. Hemant Purohit](http://mason.gmu.edu/~hpurohit/){:target="_blank"}.
 
 * * *
 ![](all_org.png)
 * * *
 ### [](#header-3) Recent News
+>**[Jul 2023]** Working on the Amazon Science team to develop robust speech recognition using reinforcement learning from human/AI feedback. 
+
+>**[Jun 2023]** Successfully defended my Ph.D. dissertation! (: 
+
+>**[Apr 2023]** Finished the pre-defense. Working on the final publication, and finishing up the dissertation thesis. 
 
 >**[Feb 2023]** Internship work [[link]](https://doi.org/10.1109/ICASSP49357.2023.10096062){:target="_blank"} at [Amazon Science](https://amazon.science){:target="_blank"} [Alexa Speech Team] got accepted in [IEEE ICASSP conference](https://2023.ieeeicassp.org/){:target="_blank"} (h-5 index: 110). Moreover, the patent of the work is submitted to United States Patent Office (USPTO)
 
